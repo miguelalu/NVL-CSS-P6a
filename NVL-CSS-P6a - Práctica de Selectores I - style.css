@@ -1,0 +1,76 @@
+body {
+  font-family: Georgia;
+  line-height: 1.4;
+  font-weight: normal;
+  font-stretch: normal;
+  font-variant: small-caps;
+  font-size: 16px;
+  
+  position: relative;
+  left: 100px;
+}
+
+td {
+	border: 2px solid black;
+	width: 130px;
+	height: 130px;
+	text-align: center;
+	
+}
+
+.Dureza1 {
+	background-color: #fff;
+	font-size: 40px;
+}
+
+.Dureza2 {
+	background-color: #eeeeee;
+	font-size: 40px;
+}
+
+.Dureza3 {
+	background-color: #e9e9e9;
+	font-size: 40px;
+}
+.Dureza4 {
+	background-color: #d4d4d4;
+	font-size: 40px;
+}
+.Dureza5 {
+	background-color: #b9b9b9;
+	font-size: 40px;
+}
+.Dureza6 {
+	background-color: #9f9f9f;
+	font-size: 40px;
+}
+.Dureza7 {
+	background-color: #848484;
+	font-size: 40px;
+	color: #fff;
+}
+.Dureza8 {
+	background-color: #6a6a6a;
+	font-size: 40px;
+	color: #fff;
+}
+.Dureza9 {
+	background-color: #4f4f4f;
+	font-size: 40px;
+	color: #fff;
+}
+.Dureza10 {
+	background-color: #000;
+	font-size: 40px;
+	color: #fff;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.head {
+	font-size: 24px;
+	height: 75px;
+}
